@@ -1,0 +1,54 @@
+body {
+  background-image: url(221213152642-01-spiderman-across-the-spider-verse-2023.webp);
+  font-family: "Agdasima", sans-serif;
+}
+
+div {
+  text-align: center;
+  background-image: url(logo.jpg);
+  background-size: cover;
+  color: red;
+  width: 50%;
+  height: 150px;
+}
+h1 {
+  padding-top: 50px;
+  font-size: 50px;
+}
+main {
+  margin-top: 70px;
+  background-image: url(logo.jpg);
+  background-size: cover;
+  text-align: center;
+  color: red;
+  width: 50%;
+  height: 400px;
+}
+form {
+  padding-top: 20px;
+}
+input[type="text"] {
+  size: 50px;
+  appearance: none;
+  border: none;
+  outline: none;
+  border-bottom: 0.2em solid red;
+  background: rgba(red, 0.2);
+  border-radius: 0.2em 0.2em 0 0;
+  padding: 0.4em;
+  color: red;
+}
+button {
+  appearance: none;
+  border: 0.2em solid red;
+  background: hsl(0 0 0/0);
+  padding: 0.85em 1.5em;
+  color: red;
+  border-radius: 2em;
+}
+.size {
+  font-size: 30px;
+}
+.completo {
+  text-decoration: line-through;
+}
